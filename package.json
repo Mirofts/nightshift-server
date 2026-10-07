@@ -1,0 +1,9 @@
+{
+  "name": "night-shift-haunted-mall",
+  "version": "2.27.0",
+  "private": true,
+  "type": "module",
+  "description": "Night Shift: Haunted Mall - web game + online matchmaking server (zero dependencies)",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
